@@ -1,0 +1,5 @@
+Cases 1-1000: All games where you take up to 1 stone at a time, in random order.
+Cases 1001-2000: All games where you take up to 30 stone at a time, in random order.
+Cases 2001-3000: All games where you take up to 31 stones at a time, in random order.
+Cases 3001-4000: All games where you take up to 1000 stone at a time, in random order.
+Cases 4001-10000: Randomly generated games that were not tested in cases 1-4000.
